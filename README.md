@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner Image](path-to-your-banner.png)
+![Banner Image](./banner.webpbanner.webp)
 
 # Hello, I'm Diksha 👋
 
