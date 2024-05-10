@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner Image](./banner.webpbanner.webp)
+![Banner Image](https://github.com/dikshatk/dikshatk/blob/some-changes/banner.webp)
 
 # Hello, I'm Diksha 👋
 
