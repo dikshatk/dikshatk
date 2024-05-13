@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-![Banner Image](https://github.com/dikshatk/dikshatk/blob/some-changes/banner.webp)
-
 # Hello, I'm Diksha 👋
 
 Welcome to my GitHub profile! I'm a passionate frontend developer who loves building user-friendly, responsive, and visually appealing web applications. Here's a bit about me:
@@ -25,7 +22,6 @@ Welcome to my GitHub profile! I'm a passionate frontend developer who loves buil
 
 - ReactJs
 - Cloud Computing on AWS
-- Progressive Web Apps
 
 ## 💬 Let's Connect
 
